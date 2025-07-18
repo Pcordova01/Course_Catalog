@@ -17,6 +17,11 @@ A command-line course management system written in Bash for UTSA CS 3423 - Syste
 * Tools: GNU Bash shell, Unix utilities (sed, read, echo, etc.)
 * Platform: Tested on UTSA’s Linux-based environment
 
+## Video Demo
+Before starting the demo, there's already one course preloaded in the catalog to show that the system can store and persist data.
+In the video, I’ll walk through adding a new course, reading and updating its information, enrolling students, and finally deleting it. By the end, the catalog will return to containing just the original course, demonstrating a full cycle of use while preserving data integrity.
+
+
 ## What I learned
 * Shell scripting fundamentals: input handling, file redirection, conditional logic, loops, and command substitution
 * Practical use of sed, read, echo, and file descriptors for reading and writing structured data
